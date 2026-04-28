@@ -1,0 +1,23 @@
+{
+  "name": "COYORA Studio",
+  "short_name": "COYORA",
+  "description": "Bridging the gap between physical fashion and digital expression.",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#050505",
+  "theme_color": "#fe0000",
+  "icons": [
+    {
+      "src": "https://res.cloudinary.com/dtlo6konr/image/upload/v1777398374/%D0%BB%D0%BE%D0%B3%D0%BE1_ds6wkv.jpg",
+      "sizes": "192x192",
+      "type": "image/jpeg",
+      "purpose": "any maskable"
+    },
+    {
+      "src": "https://res.cloudinary.com/dtlo6konr/image/upload/v1777398374/%D0%BB%D0%BE%D0%B3%D0%BE1_ds6wkv.jpg",
+      "sizes": "512x512",
+      "type": "image/jpeg",
+      "purpose": "any maskable"
+    }
+  ]
+}
